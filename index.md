@@ -1,37 +1,15 @@
 ## 感谢您访问我的博客
 
-You can use the [editor on GitHub](https://github.com/SimonTsao1988/SimonTsao1988.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## LESS IS MORE 少即是多
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+三十岁开始，我尝试着让自己的生活变得更简单。
 
-### Markdown
+想要做的越多，给自身的压力也就越大。在发现自己的精力和能力都仅仅是一个非常平凡的水平之后，我决定放弃那些自己并不擅长，也不喜欢的东西。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+所以，做自己。
 
-```markdown
-Syntax highlighted code block
+生活可以有很多选择，尤其是过怎样的人生。多数都是我们自己选择的。无论现在是好是坏，都有过去的某一个瞬间，是我们可能会追悔或者感谢自己的。
 
-# Header 1
-## Header 2
-### Header 3
+### 做少，做好，做自己
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimonTsao1988/SimonTsao1988.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我给自己三个“做”吧，就当告慰自己的LISM。
